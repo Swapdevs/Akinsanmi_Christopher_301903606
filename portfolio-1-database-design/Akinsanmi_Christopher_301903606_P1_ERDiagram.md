@@ -1,4 +1,4 @@
-# Digital Wallet and Remittance System — ER diagram
+# Digital Wallet and Remittance System - ER diagram
 
 ```mermaid
 erDiagram
