@@ -1,8 +1,8 @@
 # Digital Wallet and Remittance System
 
-**MIT 8103 Advanced Database Systems** · Individual portfolio
+**MIT 8103 Advanced Database Systems** • Individual portfolio
 
-**Christopher Akinsanmi** · Student ID 301903606
+**Christopher Akinsanmi** • Student ID 301903606 • [Repository Link](https://github.com/Swapdevs/Akinsanmi_Christopher_301903606)
 
 This portfolio comprises five sections, each focused on a single case study involving a digital wallet and remittance system. It addresses relational design, query optimisation, transaction management, implementation of a NoSQL event store, and considerations for distributed databases. All data utilized are fictitious.
 
